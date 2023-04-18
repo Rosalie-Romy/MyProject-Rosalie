@@ -1,0 +1,72 @@
+body {
+  font-family: sans-serif;
+  padding: 0 20px;
+  background-color: white;
+}
+
+.Container {
+  display: block;
+  max-width: 800px;
+  margin: 20px;
+  padding: 60px;
+  background: white;
+  border-radius: 12px;
+  border: 1px solid grey;
+}
+
+.city {
+  text-align: left;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 400;
+  line-height: 40px;
+  margin: 0;
+  font-size: 26px;
+}
+
+.mainTemperature {
+  text-align: center;
+  font-weight: 100;
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  font-size: 80px;
+  line-height: 82px;
+}
+
+.date {
+  text-align: left;
+  font-weight: 300;
+  margin: 0;
+  font-size: 14px;
+}
+
+h2 {
+  font-size: 18px;
+  color: #231d3c;
+  text-align: center;
+}
+
+h4 {
+  font-size: 12px;
+  color: #231d3c;
+  display: block;
+  text-align: center;
+}
+
+h3 {
+  font-size: 12px;
+  color: #231d3c;
+  display: block;
+  text-align: left;
+}
+
+.mainSun {
+  margin: 0 10 0 10;
+  width: 70px;
+  display: left;
+}
+
+img {
+  display: block;
+  margin: 0;
+  width: 60px;
+}
